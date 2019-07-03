@@ -1,5 +1,11 @@
 # CollectionBuilder CONTENTdm
 
+## Collection-specific notes
+
+- There are currently two CSVs being used for this collection: blindfold and response. This will be reconfigured when IJC is re-done.
+
+---
+
 This prototype version of CollectionBuilder is used by the University of Idaho Library to create skins for the digital libary collections maintained in a hosted CONTENTdm instance. 
 
 To do so, librarians and staff work with a clean version of a single collection's metadata, as stored in a .csv document linked via this Jekyll repository's [`_config.yml`](https://github.com/uidaholib/collectionbuilder-cdm-template/blob/master/_config.yml) file.
